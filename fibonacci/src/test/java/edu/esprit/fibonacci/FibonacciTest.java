@@ -22,7 +22,7 @@ public class FibonacciTest {
 	}
 	@Test
 	public void itShouldReturnTwoWhenTwoIn() {
-		assertEquals(5, fibonacci.fibo(2));
+		assertEquals(1, fibonacci.fibo(2));
 	}
 	
 	@Test
